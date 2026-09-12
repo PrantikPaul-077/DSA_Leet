@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0015-3sum) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
