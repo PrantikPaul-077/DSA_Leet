@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0577-employee-bonus) |
+| [1757-recyclable-and-low-fat-products](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1757-recyclable-and-low-fat-products) |
 ## Geometry
 |  |
 | ------- |
