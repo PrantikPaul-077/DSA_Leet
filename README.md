@@ -26,6 +26,7 @@
 | [0584-find-customer-referee](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1075-project-employees-i) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1757-recyclable-and-low-fat-products) |
 ## Geometry
