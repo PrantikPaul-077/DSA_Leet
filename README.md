@@ -51,4 +51,12 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0334-increasing-triplet-subsequence) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
