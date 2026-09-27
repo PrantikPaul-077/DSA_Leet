@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -65,8 +66,10 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
