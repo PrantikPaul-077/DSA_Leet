@@ -37,6 +37,7 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1757-recyclable-and-low-fat-products) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Geometry
 |  |
 | ------- |
