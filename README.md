@@ -14,6 +14,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
