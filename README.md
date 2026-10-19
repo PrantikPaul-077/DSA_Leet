@@ -16,6 +16,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0015-3sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Database
 |  |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
