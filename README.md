@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0013-roman-to-integer) |
+| [0089-gray-code](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0089-gray-code) |
 | [0836-rectangle-overlap](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0836-rectangle-overlap) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3870-count-commas-in-range) |
@@ -132,4 +133,12 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2089-find-target-indices-after-sorting-array) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
