@@ -9,6 +9,7 @@
 | [0089-gray-code](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0089-gray-code) |
 | [0412-fizz-buzz](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0836-rectangle-overlap) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3870-count-commas-in-range) |
@@ -19,6 +20,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -34,6 +36,7 @@
 | ------- |
 | [0015-3sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Database
