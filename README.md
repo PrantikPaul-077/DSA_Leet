@@ -12,6 +12,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0836-rectangle-overlap) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
@@ -26,6 +27,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
