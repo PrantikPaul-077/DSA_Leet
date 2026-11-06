@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0015-3sum) |
+| [0136-single-number](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0136-single-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0136-single-number) |
 ## Linked List
 |  |
 | ------- |
