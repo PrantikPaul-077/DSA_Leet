@@ -74,6 +74,7 @@
 | [1633-percentage-of-users-attended-a-contest](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1683-invalid-tweets) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1978-employees-whose-manager-left-the-company) |
