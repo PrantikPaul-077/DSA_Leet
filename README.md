@@ -19,6 +19,7 @@
 | ------- |
 | [0015-3sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0031-next-permutation) |
 | [0136-single-number](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0136-single-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0015-3sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
