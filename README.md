@@ -53,6 +53,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0197-rising-temperature) |
