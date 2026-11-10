@@ -30,6 +30,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3693-climbing-stairs-ii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -204,4 +205,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0024-swap-nodes-in-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
