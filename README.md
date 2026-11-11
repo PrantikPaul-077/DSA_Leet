@@ -13,6 +13,7 @@
 | [0836-rectangle-overlap](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0836-rectangle-overlap) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
@@ -119,6 +120,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
