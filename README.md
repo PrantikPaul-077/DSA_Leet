@@ -130,6 +130,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
