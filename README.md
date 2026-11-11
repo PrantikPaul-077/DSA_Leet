@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0089-gray-code) |
 | [0412-fizz-buzz](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -217,9 +218,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0070-climbing-stairs) |
 | [3693-climbing-stairs-ii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3693-climbing-stairs-ii) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
