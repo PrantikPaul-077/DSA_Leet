@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0089-gray-code) |
 | [0412-fizz-buzz](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -192,6 +193,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0069-sqrtx) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Backtracking
@@ -216,4 +218,8 @@
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3693-climbing-stairs-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
