@@ -149,6 +149,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Simulation
@@ -156,6 +157,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0412-fizz-buzz) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
