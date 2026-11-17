@@ -26,6 +26,7 @@
 | [0016-3sum-closest](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0031-next-permutation) |
 | [0136-single-number](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
@@ -121,6 +122,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3364-minimum-positive-sum-subarray) |
