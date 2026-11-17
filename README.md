@@ -49,6 +49,7 @@
 | [0031-next-permutation](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Simulation
@@ -229,6 +231,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0070-climbing-stairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3693-climbing-stairs-ii) |
 ## Newton's Method
 |  |
