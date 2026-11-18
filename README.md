@@ -27,6 +27,7 @@
 | [0031-next-permutation](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0031-next-permutation) |
 | [0136-single-number](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
@@ -49,6 +50,7 @@
 | [0016-3sum-closest](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
