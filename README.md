@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0031-next-permutation) |
@@ -46,6 +47,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0031-next-permutation) |
@@ -132,6 +134,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
