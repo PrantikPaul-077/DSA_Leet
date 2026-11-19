@@ -36,6 +36,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1732-find-the-highest-altitude](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -132,6 +133,7 @@
 | [0238-product-of-array-except-self](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1732-find-the-highest-altitude](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1732-find-the-highest-altitude) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
