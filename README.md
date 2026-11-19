@@ -37,6 +37,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -66,6 +67,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Database
 |  |
@@ -138,6 +140,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3789-minimum-cost-to-acquire-required-items) |
