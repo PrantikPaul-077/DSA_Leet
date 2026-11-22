@@ -38,6 +38,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -60,6 +61,7 @@
 | [0443-string-compression](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
@@ -69,6 +71,7 @@
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -215,6 +218,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0013-roman-to-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1207-unique-number-of-occurrences) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
