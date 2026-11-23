@@ -14,6 +14,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -35,6 +36,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0724-find-pivot-index](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1207-unique-number-of-occurrences) |
+| [1352-product-of-the-last-k-numbers](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -137,6 +139,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1732-find-the-highest-altitude) |
@@ -267,4 +270,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
