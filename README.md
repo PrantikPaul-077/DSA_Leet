@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0070-climbing-stairs) |
@@ -244,6 +245,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0136-single-number) |
