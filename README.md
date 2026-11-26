@@ -253,6 +253,7 @@
 | [0067-add-binary](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0338-counting-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -265,6 +266,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0338-counting-bits) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3693-climbing-stairs-ii) |
