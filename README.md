@@ -36,6 +36,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1207-unique-number-of-occurrences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1352-product-of-the-last-k-numbers) |
@@ -134,6 +135,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
