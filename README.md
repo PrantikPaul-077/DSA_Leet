@@ -281,9 +281,15 @@
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/1352-product-of-the-last-k-numbers) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/PrantikPaul-077/DSA_Leet/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
